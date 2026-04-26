@@ -29,7 +29,7 @@ ENV ASPNETCORE_URLS=http://+:80
 ENV DOTNET_SYSTEM_GLOBALIZATION_INVARIANT=1
 
 # Exponer el puerto 80 
-EXPOSE 80
+EXPOSE 80:80
 
 # Comando de inicio
 
