@@ -31,3 +31,4 @@ C:\Users\edgar\source\repos\AplicacionFrontend\obj\Debug\net8.0\refint\Aplicacio
 C:\Users\edgar\source\repos\AplicacionFrontend\obj\Debug\net8.0\AplicacionFrontend.pdb
 C:\Users\edgar\source\repos\AplicacionFrontend\obj\Debug\net8.0\AplicacionFrontend.genruntimeconfig.cache
 C:\Users\edgar\source\repos\AplicacionFrontend\obj\Debug\net8.0\ref\AplicacionFrontend.dll
+C:\Users\edgar\source\repos\AplicacionFrontend\obj\Debug\net8.0\AplicacionFrontend.sourcelink.json
